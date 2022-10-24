@@ -6,9 +6,7 @@ function App() {
   return (
     <Provider store={store}>
       <div>
-        hey
         <Greeting />
-        hjk9jkhjkl
       </div>
     </Provider>
   );
